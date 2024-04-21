@@ -21,7 +21,7 @@ Hallo! Ich heiße Werner Hofmann! Seit über 30 Jahren arbeite ich als Software-
 Seit geraumer Zeit bin ich wieder zu meinen C++-Wurzeln zurückgekehrt und ein Anhänger des so genannten “Modern C++” geworden.
 
 In diesem Repository sind die Unterlagen meiner gängigsten Seminare abgelegt:
-* C/C++ Grundlagen Programmierung (Basiswissen)
+  * C/C++ Grundlagen Programmierung (Basiswissen)
   * C++ Programmierung für Fortgeschrittene
   * Modern C++ (Erweiterungen C++11 bis C++23)
   * Design Pattern in C++
