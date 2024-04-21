@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Peter Loos
+#### Werner Hofmann
 
-Hallo! Ich heiße Peter Loos! Seit über 30 Jahren arbeite ich als Software-Entwickler, Trainer, Lehrer, Autor und Programmiersprachen-Liebhaber im Umfeld von C/C++, Java, C# und vielen anderen Software-Technologien.
+Hallo! Ich heiße Werner Hofmann! Seit über 30 Jahren arbeite ich als Software-Entwickler, Trainer, Lehrer, Autor und Programmiersprachen-Liebhaber im Umfeld von C/C++, Java, C# und vielen anderen Software-Technologien.
 Seit geraumer Zeit bin ich wieder zu meinen C++-Wurzeln zurückgekehrt und ein Anhänger des so genannten “Modern C++” geworden.
 
 In diesem Repository sind die Unterlagen meiner gängigsten Seminare abgelegt:
